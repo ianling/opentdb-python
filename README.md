@@ -1,7 +1,7 @@
 # opentdb-python
-A python2 library for interfacing with the Open Trivia Database (openTDB) API
+A python2 library for interacting with the Open Trivia Database (openTDB) API
 
-Allows you to generate a session token and get questions.
+https://opentdb.com/api_config.php
 
 # Example Usage
 
