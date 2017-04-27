@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'opentdb',
   packages = ['opentdb'],
-  version = '1.0',
+  version = '1.01',
   description = 'A library for interacting with the Open Trivia Database (openTDB) API.',
   author = 'Ian Ling',
   author_email = 'ian@iancaling.com',
