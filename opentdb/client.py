@@ -51,7 +51,7 @@ class Client(object):
         self.__API_TOKEN = response['token']
         return True
 
-    def printToken(self)
+    def printToken(self):
         return self.__API_TOKEN
 
     def getQuestions(self, amount=10, category=0, use_token=False):
