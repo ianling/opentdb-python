@@ -5,9 +5,9 @@ Allows you to generate a session token and get questions.
 
 # Example Usage
 
-    import OpenTDB
+    import opentdb
     
-    opentdb_session = OpenTDB.Client()
+    opentdb_session = opentdb.Client()
     opentdb_session.getToken()
     questions = opentdb_session.getQuestions(amount=5, use_token=True, category=18)
 
